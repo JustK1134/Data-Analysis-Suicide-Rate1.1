@@ -1,0 +1,44 @@
+.layout{
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+.row-1{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+.overall-trend{
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+}
+
+.overall-trend-figure-group{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.overall-trend-figure-item{
+    width: 100%;
+}
+
+.world-slider{
+    background-color: black;
+}
+
+.row-2{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+}
+.generation-trend-figure-item{
+    width: 30%;
+}
+.bar-figure-item{
+    width: 50%;
+}
