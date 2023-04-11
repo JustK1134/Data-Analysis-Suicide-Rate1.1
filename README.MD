@@ -1,8 +1,8 @@
 # Data Analytics - Suicide Rate
 
-![certificate](src\assets\cert3.png)
+![certificate](.\src\assets\cert3.png)
 
-![certificate](src\assets\project3.png)
+![certificate](.\src\assets\project3.png)
 A Dashboard on Suicide Data include suicide rate, population and gdp from 101 countries from 1985 to 2015.
 
 ## Description
