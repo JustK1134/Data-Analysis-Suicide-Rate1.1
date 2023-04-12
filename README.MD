@@ -8,6 +8,7 @@ A Dashboard on Suicide Data include suicide rate, population and gdp from 101 co
 ## Description
 
 In this Dashboard, you can filter the trend by selecting country, time and generation.
+Dash is live in: [Dash-plotly](https://khoiluc-portfolio-data-analytics-suicide.onrender.com/)
 
 ## Getting Started
 
